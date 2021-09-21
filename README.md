@@ -1,8 +1,10 @@
 # Transformer-based model
 
-EEG_PreTrained_50drop...shows the work as follow.
+This work proposed an automatic sleep staging method and tried to provide the interpretability for clinical support by visualizing the decision-making.
+We designed a novel physiological-based EEG spectrogram segmentation and introduces the Transformer to finding the stage-dependent feature with it.
+The implementation can be found in Transformer_SleepStage.ipynb.
+Model_xxxxx files represents the different versions.
 
-Model_xxxxx represents the different versions.
 <img width="877" alt="image" src="https://user-images.githubusercontent.com/34312998/133877516-fc4f2b31-6c1b-4674-ae87-d86107c62005.png">
 
 

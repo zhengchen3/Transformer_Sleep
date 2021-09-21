@@ -16,7 +16,12 @@ Model_xxxxx files represents the different versions of the model architecture.
 
 
 
+
 Try to visualize the decision-making of the model compare with previous work[1] based on [2],[3].
+
+<img width="725" alt="image" src="https://user-images.githubusercontent.com/34312998/134160769-285777f9-8290-4d4e-8c08-d0a765cae049.png">
+
+Result (Vit_visualization.ipynb):
 
 <img width="898" alt="image" src="https://user-images.githubusercontent.com/34312998/133877630-9b2f2eec-11e0-4d41-8c36-5afd02dd78d6.png">
 

@@ -1,6 +1,7 @@
 # Transformer-based model
 
 EEG_PreTrained_50drop...shows the work as follow.
+
 Model_xxxxx represents the different versions.
 <img width="877" alt="image" src="https://user-images.githubusercontent.com/34312998/133877516-fc4f2b31-6c1b-4674-ae87-d86107c62005.png">
 

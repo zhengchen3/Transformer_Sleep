@@ -5,6 +5,7 @@ This work proposed an automatic sleep staging method and tried to provide the in
 We designed a novel physiological-based EEG spectrogram segmentation and introduces the Transformer to finding the stage-dependent feature with it.
 
 The implementation can be found in Transformer_SleepStage.ipynb.
+
 Gradient-attention-based visualization has shown in Vit_visualization.ipynb
 
 Model_xxxxx files represents the different versions.

@@ -8,7 +8,7 @@ The implementation can be found in Transformer_SleepStage.ipynb.
 
 Gradient-attention-based visualization has shown in Vit_visualization.ipynb
 
-Model_xxxxx files represents the different versions.
+Model_xxxxx files represents the different versions of the model architecture.
 
 
 <img width="877" alt="image" src="https://user-images.githubusercontent.com/34312998/133877516-fc4f2b31-6c1b-4674-ae87-d86107c62005.png">
